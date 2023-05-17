@@ -1,0 +1,54 @@
+h2{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-family: 'Segoe UI'; 
+}
+
+div{
+    display: flex;
+    justify-content: center;
+
+}
+
+.formulario{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Segoe UI';
+   
+}
+
+label{
+    display: flex;
+    justify-content: center;
+   
+
+    
+
+}
+input{
+    width: 350px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin-left: 18px;
+    color: black;
+}
+textarea{
+    width: 350px;
+    justify-content: center;
+    display: block;
+    margin-left: 18px;
+    border-radius: 20px;
+    border: 2px black solid;
+
+    color: black;
+}
+
+button{
+    border-radius: 20px;
+    margin-left: 160px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+}

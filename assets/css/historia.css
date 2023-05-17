@@ -1,0 +1,37 @@
+.conteudo{
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* padding: 10px; */
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img:hover{
+    transform: scale(0.0);
+}
+
+
+h2{
+    display: flex;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    padding:10px;
+    background-color: rgb(255, 255, 255) ; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.video{
+    width: 50%;
+    margin: 100;
+    justify-content: center;
+    margin-left: 4  00px;
+
+    
+}
